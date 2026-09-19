@@ -14,7 +14,7 @@
 
 ## 🧬 ⟷ 🔌 About me
 
-I study **Molecular Biology & Genetics**, but I spend my free time at a workbench — designing PCBs, soldering, 3D printing enclosures and tuning around the amateur radio bands. I like the place where wet-lab biology meets code and hardware.
+I study **Molecular Biology & Genetics**, but I spend my free time at a workbench, designing PCBs, soldering, 3D printing enclosures and tuning around the amateur radio bands. I like the place where wet-lab biology meets code and hardware.
 
 
 
@@ -33,7 +33,7 @@ Molecular biology and genetics at university. Teaching myself to analyse data wi
     <td width="50%" valign="top">
 
 ### 🔌 Electronics
-Battery and audio boards, power circuits, microcontroller gadgets. I like designing the board, not just wiring a module.
+Power circuits, microcontroller gadgets... I like designing the board, not just wiring a module.
 
 </td>
   </tr>
@@ -52,19 +52,6 @@ Licensed as **TA7MNA**. QRP, portable operation, and accessories that make the s
 </td>
   </tr>
 </table>
-
-<br>
-
-## 🚀 Featured projects
-
-| Project | What it is |
-|---|---|
-| [**QMX-Plus-Battery-and-Audio-Board**](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board) | QMX+ shield for battery and audio functionality |
-| [**QMX-Plus-Battery-and-Audio-Board-Rev.2**](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board-Rev.2) | 9V and 12V compatible revision of the same shield |
-| [**HP-Barrel-to-USBC**](https://github.com/laxdronum/HP-Barrel-to-USBC) | HP 3-pin barrel jack to USB-C conversion for charging |
-
-
-<br>
 
 ## 🛠️ Toolbox
 
